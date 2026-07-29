@@ -1,7 +1,7 @@
 ## Hi, I'm Alvin Park 👋
 
 <!-- PLACEHOLDER: replace with your real bio — field of study/program and what you're working toward -->
-[One or two sentences about what you study / are working toward — e.g. "Mechatronics engineering student focused on robotics and applied ML, building hardware and software for accessibility."]
+[I am a student at the University of Toronto studying Robotics Engineering. I am particularly interested in autonomous systems, computer vision, and machine learning. ]
 
 ---
 
