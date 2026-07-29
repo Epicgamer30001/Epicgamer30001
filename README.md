@@ -38,26 +38,14 @@ MNIST, and deployed as a **[live browser demo](https://epicgamer30001.github.io/
 </tr>
 </table>
 
-**✈️ Urban Air Mobility (UAM) Research**
-
+**✈️ Unmanned Aerial Manipulator (UAM) Research**
+This summer (2026), I have been working on research at SFU [(Simon Fraser University)](https://www.sfu.ca/), specifically the [RAMP lab](http://sfu.ca/fas/research/labs/ramp-lab.html). 
 My primary research work, currently under a private repository while it's in
 progress. Since the repo itself isn't public yet, here's a photo/documentation
 portfolio of the work so far for recruiters:
 
 <!-- PLACEHOLDER: replace with the photo repo link once it exists, e.g. https://github.com/Epicgamer30001/uam-research-portfolio -->
 📷 **[UAM Research Portfolio (photos) — link coming soon]()**
-
----
-
-### 🛠️ Skills
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Onshape](https://img.shields.io/badge/-Onshape-1D262E?style=flat)
 
 ---
 
