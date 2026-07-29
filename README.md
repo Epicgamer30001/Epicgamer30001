@@ -7,6 +7,18 @@
 
 ### 🚀 Featured projects
 
+**🛰 Unmanned Aerial Manipulator (UAM) Research**
+This summer (2026), I have been working on research at SFU [(Simon Fraser University)](https://www.sfu.ca/), more specifically at the [RAMP lab](http://sfu.ca/fas/research/labs/ramp-lab.html).
+The specific project I am working on is autonomous object retrieval with Unmanned Aerial manipulators! 
+I have been building a UAM perception and mission-planning stack powered by NVIDIA's open source Eagle2.5 VLM and Ultralytics YOLO26 object detections. 
+
+My primary research work, currently under a private repository while it's in
+progress. Since the repo itself isn't public yet, here's a photo/documentation
+portfolio of the work so far:
+
+<!-- PLACEHOLDER: replace with the photo repo link once it exists, e.g. https://github.com/Epicgamer30001/uam-research-portfolio -->
+📷 **[UAM Research Portfolio (photos) — link coming soon]()**
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -37,15 +49,6 @@ MNIST, and deployed as a **[live browser demo](https://epicgamer30001.github.io/
 </td>
 </tr>
 </table>
-
-**✈️ Unmanned Aerial Manipulator (UAM) Research**
-This summer (2026), I have been working on research at SFU [(Simon Fraser University)](https://www.sfu.ca/), specifically the [RAMP lab](http://sfu.ca/fas/research/labs/ramp-lab.html). 
-My primary research work, currently under a private repository while it's in
-progress. Since the repo itself isn't public yet, here's a photo/documentation
-portfolio of the work so far for recruiters:
-
-<!-- PLACEHOLDER: replace with the photo repo link once it exists, e.g. https://github.com/Epicgamer30001/uam-research-portfolio -->
-📷 **[UAM Research Portfolio (photos) — link coming soon]()**
 
 ---
 
