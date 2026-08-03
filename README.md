@@ -17,7 +17,7 @@ progress. Since the repo itself isn't public yet, here's a photo/documentation
 portfolio of the work so far:
 
 <!-- PLACEHOLDER: replace with the photo repo link once it exists, e.g. https://github.com/Epicgamer30001/uam-research-portfolio -->
-📷 **[UAM Research Portfolio (photos) — link coming soon]()**
+📷 **[UAM Research Portfolio](https://github.com/Epicgamer30001/UAM-GUI-APP-ALBUM)**
 
 <table>
 <tr>
